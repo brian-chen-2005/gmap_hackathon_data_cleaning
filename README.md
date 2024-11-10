@@ -1,2 +1,2 @@
-# gmap_hackathon_data_cleaning
-pandas used to clean city of seattle traffic camera data
+# Gmap Hackathon Data Cleaning
+Pandas used to clean and process City of Seattle traffic camera data (CC0: Public Domain).
